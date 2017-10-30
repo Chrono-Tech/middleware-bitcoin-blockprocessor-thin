@@ -14,6 +14,7 @@
     "memwatch-next": "^0.3.0",
     "mongoose": "^4.11.7",
     "node-ipc": "^9.1.1",
+    "object-sizeof": "^1.2.0",
     "request-debug": "^0.2.0",
     "require-all": "^2.2.0"
   },
